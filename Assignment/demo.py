@@ -1,4 +1,4 @@
-222# Task 1: Take Meal Details as Input
+# Task 1: Take Meal Details as Input
 meal_id = int(input("Enter Meal ID: "))
 meal_name = input("Enter Meal Name: ")
 price = float(input("Enter Price (in ₹): "))
